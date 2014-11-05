@@ -2,7 +2,7 @@ package layer.agents;
 
 /**
  * 
- * @author Hamid Mcheick
+ * @author Johnny
  *
  */
 public interface Agent {
