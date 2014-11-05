@@ -10,6 +10,7 @@ import org.springframework.core.io.Resource;
  * @author Hamid Mcheick
  *
  */
+@SuppressWarnings("deprecation")
 public class Main {
 
 	public static void main(String[] args) {
